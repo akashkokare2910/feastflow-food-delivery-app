@@ -1,4 +1,4 @@
-<h1 align="center">Tomato Delivery</h1>
+<h1 align="center">FeastFlow Food Delivery-App</h1>
   
   
   <p align="center">
@@ -14,19 +14,10 @@
   </p>
 
 
-![Picture](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/tomato.png)
-
-
 # Getting Started
 
 - First of all, you will need to create a database with Atlas MongoDB.
 - Also have a Stripe account so you can get your SECRET STRIPE KEY.
-
-<h2>🎥 Video - https://www.youtube.com/watch?v=DBMPXJJfQEA</h2>
-
-- How to create a database with MongoDB - 3:38:27.
-- Stripe Tutorial - 7:49:55.
-
 
 # Installation
 
